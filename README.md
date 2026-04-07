@@ -11,7 +11,7 @@ Built as a **1st-year Cybersecurity portfolio project**.
 
 ---
 🌐 Live Demo: 
-https://ethics-check-ai-phoenix-mes-projects.vercel.app/
+https://ethics-check-ai.vercel.app/
 
 ---
 
@@ -108,12 +108,6 @@ src/
 | **shadcn/ui** | UI components |
 | **Framer Motion** | Animations |
 | **jsPDF** | PDF report generation |
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
