@@ -10,6 +10,10 @@ Built as a **1st-year Cybersecurity portfolio project**.
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 
 ---
+#🌐 Live Demo: 
+https://ethics-check-ai-phoenix-mes-projects.vercel.app/
+
+---
 
 ## ✨ Features
 
@@ -115,4 +119,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-Built by a 1st-year Cybersecurity student as a portfolio project demonstrating web development and security awareness skills.
+Built by ADRITA BASU, a 1st-year Cybersecurity student as a portfolio project demonstrating web development and security awareness skills.
