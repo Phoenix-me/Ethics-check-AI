@@ -10,7 +10,7 @@ Built as a **1st-year Cybersecurity portfolio project**.
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 
 ---
-#🌐 Live Demo: 
+🌐 Live Demo: 
 https://ethics-check-ai-phoenix-mes-projects.vercel.app/
 
 ---
